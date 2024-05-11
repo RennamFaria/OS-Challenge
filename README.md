@@ -1,5 +1,3 @@
-# Operating System Projects
-
 ## Deadlock Detection:
 **Description:** Create a program to simulate deadlock situations in an operating system. Implement deadlock detection techniques, such as circular wait or wait-for graph algorithms, and prevention strategies, such as the banker's algorithm, to avoid deadlocks.
 **Objective:** Deepen understanding of deadlock concepts, including detection and prevention methods.
